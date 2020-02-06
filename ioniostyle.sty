@@ -25,10 +25,6 @@
 
 
 
-
-
-
-
 \newcommand{\myffig}[6]
 {
 \begin{figure}[h]
@@ -135,3 +131,14 @@
 }
 
 
+\newcommand{\formattedpicture}[2]
+{
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=1\textwidth]{./pictures/#1.png}
+\end{center}
+\caption{
+\textit{#2}}
+\label{fig:#1}
+\end{figure}
+}
