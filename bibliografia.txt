@@ -19,3 +19,8 @@ http://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/43285/mastrapas_senti
     Alec Go, Richa Bhayani and Lei Huang, Twitter Sentiment Classification using Distant Supervision, CS224N Project Report, Stanford, 2009.
 https://s3.amazonaws.com/academia.edu.documents/34632156/Twitter_Sentiment_Classification_using_Distant_Supervision.pdf?response-content-disposition=inline%3B%20filename%3DTwitter_Sentiment_Classification_using_D.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200212T060115Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=528af0cb4c155741011721692cdaa46bb299ab671a4993e60a8e21ac3c504ce6
 }
+
+{
+    Ortony, Andrew; Clore, G; Collins, A (1988). The Cognitive Structure of Emotions (PDF). Cambridge Univ. Press. 
+    https://www.researchgate.net/publication/202304316_The_Cognitive_Structure_of_Emotion
+}
