@@ -274,3 +274,7 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# Pdf will be build by source
+thesis.pdf
+.DS_Store
