@@ -15,6 +15,14 @@
         {
             "rule": "MORFOLOGIK_RULE_EL_GR",
             "sentence": "^\\QtocchapterΕυρετήριο\\E$"
+        },
+        {
+            "rule": "UPPERCASE_SENTENCE_START",
+            "sentence": "^\\Qστην εκπαίδευση.\\E$"
+        },
+        {
+            "rule": "UPPERCASE_SENTENCE_START",
+            "sentence": "^\\Qκαι με την τεχνολογική εξέλιξη που βιώνει η σημερινή γενιά, τα παιδιά ξεκινάνε να παίζουν ηλεκτρονικά παιχνίδια νωρίτερα από οποιεσδήποτε προηγούμενες γενιές.\\E$"
         }
     ],
 }

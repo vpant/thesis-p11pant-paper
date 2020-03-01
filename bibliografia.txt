@@ -26,3 +26,15 @@ https://s3.amazonaws.com/academia.edu.documents/34632156/Twitter_Sentiment_Class
 }
 
 https://news.xbox.com/en-us/2019/05/17/minecraft-ten-years/ Minecraft Sales
+
+Κουφού, Δ. (2015). Ανάλυση τεχνικών Gamification, σχεδίαση γενικού μοντέλου και εφαρμογή σε τεχνικές ανάπτυξης καινοτόμων προϊόντων και υπηρεσιών. Αθήνα: Εθνικό Μετσόβιο Πολυτεχνείο, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών Τομέας Ηλεκτρικών Βιομηχανικών (διπλωματική εργασία).
+
+Gee, J. P. (2004). Situated Language and Learning. A critique of traditional schooling. New York and London: Routledge.
+
+Kiryakova, G., Angelova, N. & Yordanova, L. (2014). Gamification in education. Proceedings of 9th International Balkan Education and Science Conference.
+
+Egenfeldt-Nielsen, S. (2007). Third generation educational use of computer games. Journal of Educational Multimedia and Hypermedia, 16(3), 263.
+
+de Freitas, S. (2006). Learning in immersive worlds: A review of game-based learning. Bristol, UK: Joint Information Systems Committee (JISC) E-Learning Programme. 
+
+Klopfer, E., Osterweil, S. & Salen, K. (2009). Moving Learning Games Forward, Obstacles Opportunities & Openness. The Education Arcade. Massachusetts Institute of Technology. 
