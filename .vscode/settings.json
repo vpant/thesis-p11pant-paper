@@ -1,4 +1,5 @@
 {
+    "files.autoGuessEncoding":true,
     "ltex.ignoreRuleInSentence": [
         {
             "rule": "MORFOLOGIK_RULE_EL_GR",
